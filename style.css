@@ -1,0 +1,68 @@
+ .topnav{
+   width: 100%;
+   padding-right: 15px;
+   padding-left: 15px;
+   margin-right: auto;
+   margin-left: auto;
+}
+  .para1{
+    font-weight: bold; 
+    color:black; 
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  .icon{
+    font-size: 40px;
+    color: black;
+  }
+ .img-fluid{
+    margin-top: -132px;
+    align-self: center;
+ }
+ .counter{
+    font-size:larger;
+    font-weight: bolder;
+ }
+ .row{
+    margin-top: 50px;
+ }
+ .card-title{
+    text-align: center;
+ }
+ .sectionno-4{
+    margin-bottom: 8.5rem;
+ }
+ .img-fluid{
+    max-width: 100%;
+ }
+ .header1{
+   margin-top: 60px;
+   margin-bottom: 50px;
+   font-family: 'Times New Roman', Times, serif;
+ }
+ .btn{
+   --bs-btn-padding-x: 2.75rem;
+   --bs-btn-padding-y: 0.375rem;
+   margin-left: 2px;
+   margin-left: 2px;
+
+ }
+.form1{
+   margin-right: 60px;
+   margin-left: 60px;
+}
+.foot{
+   color: white;
+}
+.text-reset{
+   text-decoration: none;
+}
+.d-block{
+   margin-top: -7%;
+   font-weight: 50px;
+   font-family: 'Times New Roman', Times, serif;
+}
+.counter{
+   font-family: 'Times New Roman', Times, serif;
+}
